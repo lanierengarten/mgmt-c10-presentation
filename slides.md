@@ -10,6 +10,8 @@
 
 and then some text
 
+---
+
 ### Sub 1.2
 
 and then some more text
