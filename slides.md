@@ -2,7 +2,13 @@
 # The Manager As Politician
 
 ### Laura Nierengarten
-### 06/26/2020
+#### 06/26/2020
+
+---
+
+> “In a world of chronic scarcity, diversity, and conflict, the nimble manager walks a tightrope: developing a direction, building a base f support, and cobbling together working relations with both allies and opponents” 
+
+(Bolman, Deal, pg. 204, 2018)
 
 ===
 
