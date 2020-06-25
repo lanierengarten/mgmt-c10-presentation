@@ -1,3 +1,4 @@
+<!-- .slide: style="text-align: left;"> -->
 # The Manager As Politician
 
 ### Laura Nierengarten
