@@ -1,43 +1,59 @@
-# Title
+# The Manager As Politician
+
+### Laura Nierengarten
+### 06/26/2020
 
 ===
 
-## Section 1
+## Political skills
 
 ---
 
-### Sub 1.1
+### Agenda Setting
 
-and then some text
-
-> im a quote!
 
 ---
 
-### Sub 1.2
+### Mapping the Political Terrain
 
-and then some more text
+
+---
+
+### Networking and Building Coalitions
+
+
+---
+
+### Bargaining and Negotiation
+
 
 ===
 
-## Section 2
+## Bargaining Basics
 
 ---
 
-### Sub 2.1
-
-even more text
+### Bargaining is a mixed-motive game
 
 ---
 
-### Sub 2.2
+### Bargaining is a process of interdependent decisions
 
-so much text it's not even funny
+---
+
+### The more player A can control play B’s level of uncertainty
+---
+
+### Bargaining involves judicious use of threats rather than sanctions
+---
+
+### Making a threat is crucial
+---
+
+### Calculation of the appropriate level of threat is also critical 
 
 ===
 
-## References
 
----
 
 [reveal.js](https://revealjs.com/)
