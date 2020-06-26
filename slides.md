@@ -85,7 +85,7 @@ Do I have to work with these people again?
 
 Will this affect my reputation? 
 
-]Is it ethical?
+Is it ethical?
  
 ===
 
