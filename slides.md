@@ -47,7 +47,7 @@
 
 ---
 
-> "People Rarely give best effors and fullest cooperation simply because they have been ordered to do so. They accept direction better when they perceive the people in authority as credible, competent, and sensible." 
+> "People Rarely give best efforts and fullest cooperation simply because they have been ordered to do so. They accept direction better when they perceive the people in authority as credible, competent, and sensible." 
 
 (Bolman, Deal, pg. 209, 2018)
 
@@ -55,9 +55,9 @@
 
 ### Bargaining and Negotiation
 
-creating value
+Creating Value
 vs
-claiming value
+Claiming Value
 
 ---
 ##### 4 Strategies of Fisher and Ury's "Principled Bargaining"
@@ -132,5 +132,6 @@ Are there alternatives you could consider that rest on firmer ethical ground?
 Red Paper Clip Trade
 https://www.youtube.com/watch?v=8s3bdVxuFBs
 
+===
 
 [reveal.js](https://revealjs.com/)
