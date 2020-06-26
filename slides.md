@@ -55,15 +55,16 @@ Creating Value
 vs
 Claiming Value
 
----
-##### 4 Strategies of Fisher and Ury's "Principled Bargaining"
+===
+
+#### 4 Strategies of Fisher and Ury's "Principled Bargaining"
 
 1. Seperate people from the problem
 2. Focus on interests, not positions
 3. Invent multiple options for mutual gain
 4. Insist on objective criteria 
 
-===
+---
 
 ### Bargaining to Claim Value
 
@@ -79,9 +80,12 @@ Does it go to far?
 ---
 
 Is it better to create or claim value?
- - Do I have to work with these people again?
- - Will this affect my reputation?
- - Is it ethical?
+
+Do I have to work with these people again?
+
+Will this affect my reputation? 
+
+]Is it ethical?
  
 ===
 
