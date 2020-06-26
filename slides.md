@@ -37,6 +37,7 @@
 
 ---
 
+
 ### Networking and Building Coalitions
 
 4 Steps for Exercising Political Influence
@@ -47,11 +48,6 @@
 
 ---
 
-> "People Rarely give best efforts and fullest cooperation simply because they have been ordered to do so. They accept direction better when they perceive the people in authority as credible, competent, and sensible." 
-
-(Bolman, Deal, pg. 209, 2018)
-
----
 
 ### Bargaining and Negotiation
 
@@ -71,12 +67,14 @@ Claiming Value
 
 ### Bargaining to Claim Value
 
-- Bargaining is a mixed-motive game
-- Bargaining is a process of interdependent decisions
-- The more player A can control play B’s level of uncertainty
-- Bargaining involves judicious use of threats rather than sanctions
-- Making a threat credible is crucial
-- Calculation of the appropriate level of threat is also critical 
+Bargaining is a mixed-motive game
+Do we even want the same scare resource?
+
+---
+#### Using Threats
+
+Is it believable?
+Does it go to far?
 
 ---
 
@@ -121,9 +119,10 @@ Are there alternatives you could consider that rest on firmer ethical ground?
 
 ### Conclusion
 
-- office politics are inevitable
-- you can choose if they are positive or negative experiences
+> "Many people think of politicians as arm-twisters, and this, in part, true.
+But in order to be a successful arm-twister, one needs to know which arm to twist, and how."
 
+(Pfeffer, 1992, pg.172)
 
 ===
 
@@ -133,5 +132,11 @@ Red Paper Clip Trade
 https://www.youtube.com/watch?v=8s3bdVxuFBs
 
 ===
+> "People Rarely give best efforts and fullest cooperation simply because they have been ordered to do so. They accept direction better when they perceive the people in authority as credible, competent, and sensible." 
+
+(Bolman, Deal, pg. 209, 2018)
+
+---
+
 
 [reveal.js](https://revealjs.com/)
